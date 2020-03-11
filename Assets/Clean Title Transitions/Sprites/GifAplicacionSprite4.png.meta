@@ -1,0 +1,2147 @@
+fileFormatVersion: 2
+guid: 3e47a923196f57341a32c1beb42d362d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GifAplicacionSprite4_0
+    21300002: GifAplicacionSprite4_1
+    21300004: GifAplicacionSprite4_2
+    21300006: GifAplicacionSprite4_3
+    21300008: GifAplicacionSprite4_4
+    21300010: GifAplicacionSprite4_5
+    21300012: GifAplicacionSprite4_6
+    21300014: GifAplicacionSprite4_7
+    21300016: GifAplicacionSprite4_8
+    21300018: GifAplicacionSprite4_9
+    21300020: GifAplicacionSprite4_10
+    21300022: GifAplicacionSprite4_11
+    21300024: GifAplicacionSprite4_12
+    21300026: GifAplicacionSprite4_13
+    21300028: GifAplicacionSprite4_14
+    21300030: GifAplicacionSprite4_15
+    21300032: GifAplicacionSprite4_16
+    21300034: GifAplicacionSprite4_17
+    21300036: GifAplicacionSprite4_18
+    21300038: GifAplicacionSprite4_19
+    21300040: GifAplicacionSprite4_20
+    21300042: GifAplicacionSprite4_21
+    21300044: GifAplicacionSprite4_22
+    21300046: GifAplicacionSprite4_23
+    21300048: GifAplicacionSprite4_24
+    21300050: GifAplicacionSprite4_25
+    21300052: GifAplicacionSprite4_26
+    21300054: GifAplicacionSprite4_27
+    21300056: GifAplicacionSprite4_28
+    21300058: GifAplicacionSprite4_29
+    21300060: GifAplicacionSprite4_30
+    21300062: GifAplicacionSprite4_31
+    21300064: GifAplicacionSprite4_32
+    21300066: GifAplicacionSprite4_33
+    21300068: GifAplicacionSprite4_34
+    21300070: GifAplicacionSprite4_35
+    21300072: GifAplicacionSprite4_36
+    21300074: GifAplicacionSprite4_37
+    21300076: GifAplicacionSprite4_38
+    21300078: GifAplicacionSprite4_39
+    21300080: GifAplicacionSprite4_40
+    21300082: GifAplicacionSprite4_41
+    21300084: GifAplicacionSprite4_42
+    21300086: GifAplicacionSprite4_43
+    21300088: GifAplicacionSprite4_44
+    21300090: GifAplicacionSprite4_45
+    21300092: GifAplicacionSprite4_46
+    21300094: GifAplicacionSprite4_47
+    21300096: GifAplicacionSprite4_48
+    21300098: GifAplicacionSprite4_49
+    21300100: GifAplicacionSprite4_50
+    21300102: GifAplicacionSprite4_51
+    21300104: GifAplicacionSprite4_52
+    21300106: GifAplicacionSprite4_53
+    21300108: GifAplicacionSprite4_54
+    21300110: GifAplicacionSprite4_55
+    21300112: GifAplicacionSprite4_56
+    21300114: GifAplicacionSprite4_57
+    21300116: GifAplicacionSprite4_58
+    21300118: GifAplicacionSprite4_59
+    21300120: GifAplicacionSprite4_60
+    21300122: GifAplicacionSprite4_61
+    21300124: GifAplicacionSprite4_62
+    21300126: GifAplicacionSprite4_63
+    21300128: GifAplicacionSprite4_64
+    21300130: GifAplicacionSprite4_65
+    21300132: GifAplicacionSprite4_66
+    21300134: GifAplicacionSprite4_67
+    21300136: GifAplicacionSprite4_68
+    21300138: GifAplicacionSprite4_69
+    21300140: GifAplicacionSprite4_70
+    21300142: GifAplicacionSprite4_71
+    21300144: GifAplicacionSprite4_72
+    21300146: GifAplicacionSprite4_73
+    21300148: GifAplicacionSprite4_74
+    21300150: GifAplicacionSprite4_75
+    21300152: GifAplicacionSprite4_76
+    21300154: GifAplicacionSprite4_77
+    21300156: GifAplicacionSprite4_78
+    21300158: GifAplicacionSprite4_79
+    21300160: GifAplicacionSprite4_80
+    21300162: GifAplicacionSprite4_81
+    21300164: GifAplicacionSprite4_82
+    21300166: GifAplicacionSprite4_83
+    21300168: GifAplicacionSprite4_84
+    21300170: GifAplicacionSprite4_85
+    21300172: GifAplicacionSprite4_86
+    21300174: GifAplicacionSprite4_87
+    21300176: GifAplicacionSprite4_88
+    21300178: GifAplicacionSprite4_89
+    21300180: GifAplicacionSprite4_90
+    21300182: GifAplicacionSprite4_91
+    21300184: GifAplicacionSprite4_92
+    21300186: GifAplicacionSprite4_93
+    21300188: GifAplicacionSprite4_94
+    21300190: GifAplicacionSprite4_95
+    21300192: GifAplicacionSprite4_96
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2907
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8107563e77ad8b488604f942e5a9d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2907
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e31495cdd00d4598c84c9b43ebc6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2907
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0488558daa0824ab7302d48a45c96d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2907
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a21b10cac64144b48d3167738c7a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2907
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12396313df9f47c418fe9b6680df0341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2754
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdce883cba94ee43a3c4a8a5f045a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2754
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b492b7feb77d4ea4dbee7405817d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2754
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a415e2b3c4a7f4cb2b50d38588c947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2754
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28e2443d2aaf64fb066b51f040b0c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2754
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c89071eb9d22b8499e540be76dcd048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2601
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b1aa070f3c3314b9de0c9f8a300d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2601
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217cc79e93b0c0948a6197cefc30f66c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2601
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19eda5f5327cc4bb9fcc29cc4bdec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2601
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696c4b5445f884459fffbf97491d684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2601
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57745bfb40492b44481ad04a8c2c40aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee826a0e95a7748bbd69025f23a954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2448
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81442d7e1c8f2949a7ce6e772f41bd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2448
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb7852e307d1b4ba4e9e328b18a2fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2448
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ba051d23b10c4bb7caf6fd415326d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2448
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff4a23bad8f0348a2d57b987d97846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2295
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddefbc4c98c43364f8229e471f501bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2295
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c3e6041b47c64d8f65cbc0c03be09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2295
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c64da6765d869449037a2226eb70cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2295
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a6916a21ea7649bd6a758256a9bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2295
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566500db046ea124888487d1995c6b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2647aa7952ebd2438257a0bc08c25a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2142
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544816e74286184fa7209c25f4f775b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2142
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fb6cdf083034443b3ea881c96ac177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2142
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890c618d7e625654c9416b32241dc13c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2142
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48acfcd636f91c1439e467e940bee66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1989
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1769f9991f01abe42956692b321f948c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1989
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319adebf621ebf74388f2e97bab37a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1989
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2fa972d94403a40a9eba6c4642770a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1989
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c722631702b684c86fcc1bd8b808ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1989
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74457e40577b6542b1f3d5346d252a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e6ea978a57cc43a14bebb6b681e63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1836
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c222288cf17104ba0d26484ffa5aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1836
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983a2fd4ed460274d8b47a9f2dba9ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1836
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ebb4086263184c8afe2fa4c098a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1836
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816694b7fc7443047975794170a1a359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1683
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdeb750945fcc44ab89feb658a760e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1683
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a31ac18d9d9d4690bbb0c3d67f4e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1683
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e42a5663392a428d7788dc438c84c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1683
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2e4f046e6650448746a3fb7223a0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1683
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846e9d3b7bfb4244ba2ca588fb395d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21da03da89046a4aadab374affe1e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1530
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97ae91298fd5e41a1d9853f3243fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1530
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e4b72947669b4ea7456aa707f6aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1530
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308d44fd18c11045b30de9468980a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1530
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae2638a5cad64428644a18cfb0e95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1377
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c1a42ce811eb449dee1a0c7af880f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1377
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af4f77ede158645bce0f2fa4fcbe7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1377
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ee90c3e394ddb4c82f18529d04f70a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1377
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a19b09e51b52546bab56d5da7d8c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcb9521a9dac244a81461bb7da622b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1224
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30801dfe9e378644488ad0c0fde59b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1224
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6069790e87d2044b1cefb03c1e6ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_57
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1224
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f362591e7b6e4daf3e7ffee55697b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1224
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8759ee2b72c84c4d95434996b1df2cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14420be664904a84a84e640af47ca279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1071
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae3af7eec84f14c986abf9897937ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1071
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c10c1d5cb37fd41bc980d27a2c1369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1071
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99c61b83d18494c88bda379c7da1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_63
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1071
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4a3b293a013d4cbc45b68303bbad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b750abfc3982e41b3a690ab897a8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 918
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb96c8c6a243be409bf511c71a7dd0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 918
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a756d8e05666747aba7b13a0750ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_67
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 918
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7b71bc5e181f48a6f78f5eaa9d874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 918
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85464bccd5038a04dba6a5f386d721cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e4c57248586449bc4511ed7ca735f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_70
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 765
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b23f6c2e411a45ab1df404f21df63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 765
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f469a5978a5334c82ecdf6dbe193e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 765
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eac031d18c9ac4482d0100487ddc96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_73
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 765
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d1311c15b008438d7d2cba6696b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a325b682163f64e9a50ec15f1104ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 612
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c38684c1b005429e7b27cfdd113bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 612
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8859cece9a848544bd5cd7ac38e3147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 612
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5127e358a02c94c8d7c1fcb875971a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 612
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73870cd3356da3c47a4dfa78073482f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f656e7192a5a14fbc8c6ff4cc970f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_80
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 459
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f29b05c4fba3e42be3169c7bb242c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 459
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed64093cd13db49925123dcb6041be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_82
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 459
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159f8b3c14f8a742a6191f444078310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_83
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 459
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1b0a7678cd5f4ea5f27d8fd8af151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d585beb5d705c41b8155a1be57f586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_85
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 306
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45343b8dc3f58cc469f4b2f3d48642bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 306
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f54af92d5e4cb2449205ca9c2fa1719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_87
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 306
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897520b005bf19c42812b41ef7dcc36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_88
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 306
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a8656ee32d2f48a68077b02bfc4df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe024b1798a7b04c840b6c191eceedb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_90
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 153
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138677c992ab8a4fa0026cb0c0a4bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 153
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b82242aff25f6479f97b81101994cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_92
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 153
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36e8e26cf72904aa2e9b5f41fdfa6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_93
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 153
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca9f9cf5fe9d2f4ab779b9b2a8b6208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff9aff81f6c0944a03691762cdd250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_95
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ae35bc79970f4eac14d9cb5a8743e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GifAplicacionSprite4_96
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c928f4d5d7b342ba59c6489582f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 170298ae1fac6c848bb5c18e713ec3f6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,235 @@
+{
+	"lines":
+	[
+		{
+			"key": "language-selection",
+			"line": ["English Language"]
+		},
+		{
+			"key": "menu-chalecos",
+			"line": ["VESTS"]
+		},
+		{
+			"key": "menu-explosivos",
+			"line": ["EXPLOSIVES"]
+		},
+		{
+			"key": "menu-baterias",
+			"line": ["BATTERIES"]
+		},
+		{
+			"key": "menu-referencias",
+			"line": ["REFERENCES"]
+		},
+		{
+			"key": "menu-telefono",
+			"line": ["TELEPHONE"]
+		},
+		{
+			"key": "desc",
+			"line": ["Description"]
+		},
+		{
+			"key": "comp",
+			"line": ["Composition"]
+		},
+		{
+			"key": "chaleco1-nombre",
+			"line": ["CHE323"]
+		},
+		{
+			"key": "chaleco1-desc",
+			"line": ["Vest with origin in Chechnya, was used in the war against Russia between 1990 and 1994, it is a vest with a supply of destruction quite remarkable for its simplicity, the first versions came to destroy 2 floors of a building, with the most current modifications, some small building collapsed, once the war was over, and with Russia in control, none was seen again."]
+		},
+		{
+			"key": "chaleco1-comp",
+			"line": ["-Explosive belt with modified TNT.\n-Hand activated push button."]
+		},
+
+
+		{
+			"key": "chaleco2-nombre",
+			"line": ["EGS10"]
+		},
+		{
+			"key": "chaleco2-desc",
+			"line": ["Originating in South Sudan, the FGS10 vest is a sample of power, its mixture of glycerin with Napalm distributed in 4 points of the human body, is a threat to all those who are short and medium distance, in the civil war, I speak that this vest was used 9 times and among all of them, they added a whopping 228 victims, have been sighted in areas of Europe and in our country one was neutralized, by Captain McKennley, a few months ago."]
+		},
+		{
+			"key": "chaleco2-comp",
+			"line": ["-PKL countdown counter on the chest\n-BKJ belt composed of napalm and glycerin\n-Brazales with Semtex BH\n-7U electric plates at the abdomen"]
+		},
+
+
+		{
+			"key": "chaleco3-nombre",
+			"line": ["FBJ22"]
+		},
+		{
+			"key": "chaleco3-desc",
+			"line": ["Of unknown origin, it is one of the most sophisticated pump vests, it has only been sighted one in 1998, due to its complex assembly, it was called `` the annihilator '', since its reach power was devastating, it was used in Yemen, and detained one of the most emblematic buildings in the capital, killing 92 people in the act and leaving 52 seriously injured. Although 10 years have passed since that day, the engineers have studied this vest thoroughly, without yet establishing a deactivation pattern."]
+		},
+		{
+			"key": "chaleco3-comp",
+			"line": ["-Countdown counter at the height of the rib.\n-Energy fuses\n-NKF shoulder tube  atteries\n-J5 box with belt closure\n-BKJ belt composed of manipulated C4"]
+		},
+
+
+
+		{
+			"key": "chaleco4-nombre",
+			"line": ["M456"]
+		},
+		{
+			"key": "chaleco4-desc",
+			"line": ["Known in the Republic of the Congo, it is one of the most used vests in the world, with a refined composition, but very easy to create for an amateur. It was used by the rebels to the dictator's regime, the slaves of the mines themselves, were in charge of removing the mining explosives that were used at the time. With this vest one of the dictator's ministers was murdered in his own house. Very difficult to find in Europe and the United States given the difficulty of finding that type of explosive."]
+		},
+		{
+			"key": "chaleco4-comp",
+			"line": ["-Chest contact mines with timer.\n-Semtex belt.\n-Manual detonator."]
+		},
+
+
+		{
+			"key": "chaleco5-nombre",
+			"line": ["LBH4"]
+		},
+
+		{
+			"key": "chaleco5-desc",
+			"line": ["'' The matareyes '', was the vest used to assassinate King Halid (Jordan), a very easy vest to camouflage and go unnoticed by putting any garment on top. A semtex composition with c4 in bars of 5 cm in diameter, a counter and a simple wiring, are enough to create panic among the crowd, a headache for the artisans due to its amount of fine wiring."]
+		},
+		{
+			"key": "chaleco5-comp",
+			"line": ["-Wired Semtex and C4 pipes.\n-Automatic FBG counter.\n-Possible manual detonator"]
+		},
+		{
+			"key": "explosivo-deactmode-title",
+			"line": ["DEACTIVATION MODE"]
+		},
+		{
+			"key": "explosivo1-nombre",
+			"line": ["CLAYMORE"]
+		},
+		{
+			"key": "explosivo1-desc",
+			"line": ["Explosive due to proximity of movement, widely used by the army, its explosion is practically lethal."]
+		},
+		{
+			"key": "explosivo1-deactmode",
+			"line": ["The conductive wire must be followed until its energy fuse, once in this it has to be disconnected and then cut the cable through the part of the explosive."]
+		},
+		{
+			"key": "explosivo2-nombre",
+			"line": ["PP67 MINE"]
+		},
+		{
+			"key": "explosivo2-desc",
+			"line": ["Contact mine, its system is individual, it is operated by a manual detonator. Its reach is devastating."]
+		},
+		{
+			"key": "explosivo2-deactmode",
+			"line": ["Only if it is abandoned and alone is possible, its radio frequency range is 200 meters, it must be exploited by a signal, evacuate area within a radius of 50 meters."]
+		},
+		{
+			"key": "explosivo3-nombre",
+			"line": ["K732 MINES"]
+		},
+		{
+			"key": "explosivo3-desc",
+			"line": ["Mines in series, its effectiveness is absolute, its explosive mixture is the most sophisticated in the clandestine market, its design is focused on the explosive wave generated after its explosion."]
+		},
+		{
+			"key": "explosivo3-deactmode",
+			"line": ["If these are activated, the first thing to do is to locate all those that are in place, if you step on only one, it will trigger the explosion in all. Once located, put weight on all, at the same time, in a strip of 6 seconds before they explode."]
+		},
+				{
+			"key": "explosivo4-nombre",
+			"line": ["ANFO"]
+		},
+		{
+			"key": "explosivo4-desc",
+			"line": ["ANFO is a high power explosive consisting of a mixture of ammonium nitrate and petroleum-derived fuel. These mixtures are widely used mainly by mining and demolition companies."]
+		},
+		{
+			"key": "explosivo4-deactmode",
+			"line": ["It has no deactivation mode, since it is an already explosive material, nothing can be done, just disconnect it from the detonator to which it is spinning, normally the green wire always gives the signal."]
+		},
+		{
+			"key": "bateria-deactmode-title",
+			"line": ["DEACTIVATION MODE"]
+		},
+		{
+			"key": "bateria1-nombre",
+			"line": ["7U BATTERY"]
+		},
+		{
+			"key": "bateria1-desc",
+			"line": ["With a brutal power these batteries, individually could power the entire electrical system of a submarine, very difficult to find for a non-governmental person."]
+		},
+		{
+			"key": "bateria1-deactmode",
+			"line": ["It is necessary to boil them in water, its internal system will prevent the energy from leaving electrically out of its box, but it will be completely useless."]
+		},
+		{
+			"key": "bateria2-nombre",
+			"line": ["BATTERY F4"]
+		},
+		{
+			"key": "bateria2-desc",
+			"line": ["A simple and sophisticated battery, capable of feeding a fairly decent system, its ion mixture makes it quite reliable when it is feeding an explosive system in series. Very used."]
+		},
+		{
+			"key": "bateria2-deactmode",
+			"line": ["It has to be broken, but before the explosive system has to be deactivated, since the battery throws impulses up to 8 seconds after breaking, you have to be careful with the corrosive liquid that is loose, since it is able to melt even the iron it's hot"]
+		},
+		{
+			"key": "bateria3-nombre",
+			"line": ["NFK TUBE BATTERY"]
+		},
+		{
+			"key": "bateria3-desc",
+			"line": ["Serially powered batteries, they are not usually placed individually, they are always separated by colors, they do not produce great energy, their charge is low voltage but they are functional to feed explosives by time trial. Its use is uncommon and for very sophisticated systems."]
+		},
+		{
+			"key": "bateria3-deactmode",
+			"line": ["Its low voltage, makes them vulnerable to high energy loads, must be overloaded by a large electrical power until they melt, both have connectors at the bottom and with the appropriate electrical panel, It should be enough to stop working."]
+		},
+		{
+			"key": "referencias-secredtext-title",
+			"line": ["FUSES AJ447"]
+		},
+		{
+			"key": "referencias-secredtext-desc",
+			"line": ["FUSES FOUND IN\nARTIFACT YEAR 1998"]
+		},
+				{
+			"key": "referencias-ingreselaclave",
+			"line": ["ENTER THE PASSWORD"]
+		},
+		{
+			"key": "referencias-claveincorrecta",
+			"line": ["INCORRECT PASSWORD"]
+		},
+		{
+			"key": "referencias-textquedan",
+			"line": ["left"]
+		},
+		{
+			"key": "referencias-textintentos",
+			"line": ["attempts"]
+		},
+		{
+			"key": "referencias-timeelapsetext",
+			"line": ["CORRECT PASSWORD!"]
+		},
+		{
+			"key": "telefono-textcalling",
+			"line": ["Calling"]
+		},
+		{
+			"key": "telefono-numbernotfound",
+			"line": ["Number not found"]
+		}
+	]
+}

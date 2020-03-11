@@ -1,0 +1,233 @@
+{
+	"lines":
+	[
+		{
+			"key": "language-selection",
+			"line": ["Idioma Español"]
+		},
+		{
+			"key": "menu-chalecos",
+			"line": ["CHALECOS"]
+		},
+		{
+			"key": "menu-explosivos",
+			"line": ["EXPLOSIVOS"]
+		},
+		{
+			"key": "menu-baterias",
+			"line": ["BATERIAS"]
+		},
+		{
+			"key": "menu-referencias",
+			"line": ["REFERENCIAS"]
+		},
+		{
+			"key": "menu-telefono",
+			"line": ["TELEFONO"]
+		},
+		{
+			"key": "desc",
+			"line": ["Descripción"]
+		},
+		{
+			"key": "comp",
+			"line": ["Composición"]
+		},
+		{
+			"key": "chaleco1-nombre",
+			"line": ["CHE323"]
+		},
+		{
+			"key": "chaleco1-desc",
+			"line": ["Chaleco con origen en Chechenia. Fue utilizado en la guerra contra Rusia entre el 1990 y el 1994. Es un chaleco con un abaste de destrucción bastante notable para su sencillez. Las primeras versiones llegaban a destruir 2 plantas de un edificio; con las más actuales modificaciones, llegaron a derrumbar algún edificio pequeño. Una vez acabada la guerra, y con Rusia con el control, no se volvió avistar ninguno."]
+		},
+		{
+			"key": "chaleco1-comp",
+			"line": ["-Explosive belt with modified TNT.\n-Hand activated push button."]
+		},
+
+
+		{
+			"key": "chaleco2-nombre",
+			"line": ["EGS10"]
+		},
+		{
+			"key": "chaleco2-desc",
+			"line": ["De origen en Sudan del Sur, el chaleco FGS10 es una muestra de potencia, su mezcla de glicerina con Napalm distribuidos en 4 puntos del cuerpo humano, es una amenaza para todos los que esten a corta y media distancia, en la guerra civil, se hablo de que este chaleco fue utilizado 9 veces y entre todas ellas, sumaron la friolera de 228 víctimas, se han avistado en zonas de europa y en nuestro país fue neutralizado uno, por el capitán McKennley, hace pocos meses."]
+		},
+		{
+			"key": "chaleco2-comp",
+			"line": ["-Contador de cuenta atrás PKL en el pecho\n-Cinturon BKJ compuesto de napalm y glicerina\n-Brazales con Semtex BH\n-Placas electricas 7U a la altura del abdomen"]
+		},
+
+
+		{
+			"key": "chaleco3-nombre",
+			"line": ["FBJ22"]
+		},
+		{
+			"key": "chaleco3-desc",
+			"line": ["De orígen desconocido, se trata de uno de los chalecos bomba más sofisticados, solo ha sido avistado uno en 1998, debido a su complejo montaje, fue denominado ''el aniquilador'', ya que su potencia de alcance fue devastadora, fue usado en Yemen, y destuyo uno de los edificios más emblemáticos de la capital, acabando con 92 personas en el acto y dejando 52 heridos graves. Pese que han pasado 10 años desde ese día, los artificieros han estudiado este chaleco minuciosamente, sin aún establecer un patrón de desactivación."]
+		},
+		{
+			"key": "chaleco3-comp",
+			"line": ["-Contador de cuenta atrás a la altura de la costilla.\n-Fusibles de energia\n-Baterias NKF de tubo en los hombros\n-Caja J5 con cierre de cinturon\n-Cinturon BKJ compuesto de C4  manipulado"]
+		},
+
+
+		{
+			"key": "chaleco4-nombre",
+			"line": ["M456"]
+		},
+		{
+			"key": "chaleco4-desc",
+			"line": ["Conocido en la república del congo, se trata de uno de los chalecos más utilizados del mundo, con una composición depurada, pero muy sencilla de crear para un aficionado. Lo utilizaban los rebeldes al régimen del dictador,  los mismos esclavos de las minas, eran los encargados de sustraer los explosivos mineros que se utilizaban en la época. Con este chaleco se asesinó a uno de los ministros del dictador en su propia casa. Muy díficil de encontrar en europa y estados unidos dado a la dificultad de encontrar ese tipo de explosivo."]
+		},
+		{
+			"key": "chaleco4-comp",
+			"line": ["-Minas de contacto en el pecho con temporizador.\n-Cinturón de semtex.\n-Detonador manual."]
+		},
+
+
+		{
+			"key": "chaleco5-nombre",
+			"line": ["LBH4"]
+		},
+		{
+			"key": "chaleco5-desc",
+			"line": ["''El matareyes'', fue el chaleco utilizado para asesinar al rey Halid (Jordania), un chaleco muy facil de camuflar y pasar desapercibido poniendo cualquier prenda de ropa encima. Una composición de semtex con c4 en barras de 5 cm de diametro, un contador y un simple cableado, son suficientes para crear el pánico entre la multitud, un quebradero de cabeza para los artificieros debido a su cantidad de cableado fino."]
+		},
+		{
+			"key": "chaleco5-comp",
+			"line": ["-Tubos de Semtex y C4 cableados.\n-Contador FBG automático.\n-Posible detonador manual"]
+		},
+		{
+			"key": "explosivo-deactmode-title",
+			"line": ["MODO DE DESACTIVACIÓN"]
+		},
+		{
+			"key": "explosivo1-nombre",
+			"line": ["CLAYMORE"]
+		},
+		{
+			"key": "explosivo1-desc",
+			"line": ["Explosivo por cercanía de movimiento, muy utilizado por el ejercito, su explosión es practicamente letal."]
+		},
+		{
+			"key": "explosivo1-deactmode",
+			"line": ["Se debe de seguir el hilo conductor hasta su fusible energico, una vez en este se ha de desconectar y seguidamente cortar el cable por la parte del explosivo."]
+		},
+		{
+			"key": "explosivo2-nombre",
+			"line": ["MINA PP67"]
+		},
+		{
+			"key": "explosivo2-desc",
+			"line": ["Mina de contacto, su sistema es individual, se explota mediante un detonador manual. Su alcance es devastador."]
+		},
+		{
+			"key": "explosivo2-deactmode",
+			"line": ["Solo si esta se encuentra abandonada y sola es posible, su alcance de radiofrecuencia es de 200 metros, se debe de explotar mediante una señal, evacuar zona en un radio de 50 metros."]
+		},
+		{
+			"key": "explosivo3-nombre",
+			"line": ["MINAS K732"]
+		},
+		{
+			"key": "explosivo3-desc",
+			"line": ["Minas en serie, su efectividad es absoluta, su mezcla explosiva es de lo más sofisticada del mercado clandestino, su diseño está focalizado para la onda explosiva que genera tras su explosión."]
+		},
+		{
+			"key": "explosivo3-deactmode",
+			"line": ["Si estas se activan, lo primero que se debe de hacer, es localizar todas las que se encuentran en el lugar, si se pisa solo una, desencadenará la explosión en todas. Una vez localizadas, poner peso en todas, a la vez, en una franja de 6 segundos antes de que exploten."]
+		},
+				{
+			"key": "explosivo4-nombre",
+			"line": ["ANFO"]
+		},
+		{
+			"key": "explosivo4-desc",
+			"line": ["El ANFO es un explosivo de alta potencia que consiste en una mezcla de nitrato de amonio y combustible derivado del petróleo. Estas mezclas son muy utilizadas principalmente por las empresas mineras y de demolición."]
+		},
+		{
+			"key": "explosivo4-deactmode",
+			"line": ["No tiene modo de desactivación, al ser un material ya de por si explosivo, no se puede hacer nada, solo desconectarlo del detonador al que este hilado, normalmente el cable verde siempre da la señal."]
+		},
+		{
+			"key": "bateria-deactmode-title",
+			"line": ["MODO DE DESACTIVACIÓN"]
+		},
+		{
+			"key": "bateria1-nombre",
+			"line": ["BATERIA 7U"]
+		},
+		{
+			"key": "bateria1-desc",
+			"line": ["Con una potencia brutal estas baterias, individualmente, podrian alimentar todo el sistema electrico de un submarino, muy dificiles de encontrar para una persona no gubernamental."]
+		},
+		{
+			"key": "bateria1-deactmode",
+			"line": ["Hay que hervirlas en agua, su sistema interior impedirá que salga la energia en forma electrica hacia fuera de su caja, pero quedará completamente inútil."]
+		},
+		{
+			"key": "bateria2-nombre",
+			"line": ["BATERIA F4"]
+		},
+		{
+			"key": "bateria2-desc",
+			"line": ["Una bateria sencilla y sofisticada, capaz de alimentar un sistema bastante decente, su mezcla de iones la hace bastante fiable cuando se encuentra alimentando un sistema explosivo en serie. Muy utilizada."]
+		},
+		{
+			"key": "bateria2-deactmode",
+			"line": ["Se tiene que romper, pero antes se ha de desactivar el sistema explosivo, ya que la bateria lanza impulsos hasta 8 segundos despues de romperse, hay que tener cuidado con el liquido corrosivo que esta suelta, ya que es capaz de fundir hasta el hierro mientras está caliente."]
+		},
+		{
+			"key": "bateria3-nombre",
+			"line": ["BATERIA NFK de TUBO"]
+		},
+		{
+			"key": "bateria3-desc",
+			"line": ["Baterias de alimentación en serie, no se suelen poner individualmente, siempre se separan mediante colores, no producen una gran energía, su carga es de poco voltaje pero son funcionales para alimentar explosivos por contrareloj. Su utilización es poco común y para sistemas muy sofisticados."]
+		},
+		{
+			"key": "bateria3-deactmode",
+			"line": ["Su poco voltaje, hace que sean vulnerables a las altas cargas de energía, se debe de sobrecargar mediante una gran potencia eléctrica hasta que se funden, ambas tienen conectores en su parte inferior y con el cuadro electrico adecuado, deberia de ser suficiente para que dejen de funcionar."]
+		},
+		{
+			"key": "referencias-secredtext-title",
+			"line": ["FUSIBLES AJ447"]
+		},
+		{
+			"key": "referencias-secredtext-desc",
+			"line": ["FUSIBLES ENCONTRADOS\nEN ARTEFACTO A\u00D1O 1998"]
+		},
+		{
+			"key": "referencias-ingreselaclave",
+			"line": ["INGRESE LA CLAVE"]
+		},
+		{
+			"key": "referencias-claveincorrecta",
+			"line": ["CLAVE INCORRECTA"]
+		},
+		{
+			"key": "referencias-textquedan",
+			"line": ["...quedan"]
+		},
+		{
+			"key": "referencias-textintentos",
+			"line": ["intentos"]
+		},
+		{
+			"key": "referencias-timeelapsetext",
+			"line": ["¡CLAVE CORRECTA!"]
+		},
+		{
+			"key": "telefono-textcalling",
+			"line": ["Llamando"]
+		},
+		{
+			"key": "telefono-numbernotfound",
+			"line": ["Número no encontrado"]
+		}
+	]
+}
